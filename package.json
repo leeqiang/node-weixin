@@ -1,0 +1,24 @@
+{
+  "name": "weixin",
+  "version": "0.0.1",
+  "description": "Headless node sdk for integrating with weixin.",
+  "main": "index.js",
+  "maintainers": [
+    "teambition",
+    "leeqiang"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leeqiang/node-weixin.git"
+  },
+  "keywords": [
+    "node",
+    "sdk",
+    "weixin"
+  ],
+  "author": "Lee Qiang",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.29.0",
+  }
+}
